@@ -1,3 +1,5 @@
+<p style="color: blue">
 gokhty edita aca...
 :)
 ya estoy editando desde gokhty, fucionar está rama si la revisión está correcta
+</p>
